@@ -1,28 +1,28 @@
 [
         {
-            name: "Eaglercraft 1.5.2",
-            description: "Play a cracked version of minecraft 1.5.2 inside your browser. To play with someone else load a singleplayer world up, in the menu press open to LAN, a messsage will popup in chat",
-            image: "https://flyinghorseupsidedown.netlify.app/eagler-1.5.2.png",
-            categories: ["game", "singleplayer", "multiplayer", "sandbox"],
-            url: "https://sd592g.github.io/zj684od4lfg/"
+            "name": "Eaglercraft 1.5.2",
+            "description": "Play a cracked version of minecraft 1.5.2 inside your browser. To play with someone else load a singleplayer world up, in the menu press open to LAN, a messsage will popup in chat",
+            "image": "https://flyinghorseupsidedown.netlify.app/eagler-1.5.2.png",
+            "categories": ["game", "singleplayer", "multiplayer", "sandbox"],
+            "url": "https://sd592g.github.io/zj684od4lfg/"
         },
         {
-            name: "Eaglercraft 1.8.8",
-            description: "Play a cracked version of minecraft 1.8.8 inside your browser. It is quite laggy and does not have singleplayer, but you can use texture packs and join servers.",
-            image: "https://flyinghorseupsidedown.netlify.app/eagler-1.8.8.png",
-            categories: ["game", "multiplayer", "sandbox"],
-            url: "https://sd592g.github.io/7djhs64tdp18/"
+            "name": "Eaglercraft 1.8.8",
+            "description": "Play a cracked version of minecraft 1.8.8 inside your browser. It is quite laggy and does not have singleplayer, but you can use texture packs and join servers.",
+            "image": "https://flyinghorseupsidedown.netlify.app/eagler-1.8.8.png",
+            "categories": ["game", "multiplayer", "sandbox"],
+            "url": "https://sd592g.github.io/7djhs64tdp18/"
         },
         {
-            name: "Noclip.website",
-            description: "Noclip.website mirror allowing you to fly around and explore game levels from the past. Use WASD to naviagate and the menu to pick.",
-            image: "https://flyinghorseupsidedown.netlify.app/noclip.jpg",
-            categories: ["experience", "singleplayer"]
+            "name": "Noclip.website",
+            "description": "Noclip.website mirror allowing you to fly around and explore game levels from the past. Use WASD to naviagate and the menu to pick.",
+            "image": "https://flyinghorseupsidedown.netlify.app/noclip.jpg",
+            "categories": ["experience", "singleplayer"]
         },
         {
-            name: "Windows 93",
-            description: "A mock version of windows running in the browser. It has fun games, tools and other things to mess around with.",
-            image: "https://flyinghorseupsidedown.netlify.app/windows-93.png",
-            categories: ["experience"]
+            "name": "Windows 93",
+            "description": "A mock version of windows running in the browser. It has fun games, tools and other things to mess around with.",
+            "image": "https://flyinghorseupsidedown.netlify.app/windows-93.png",
+            "categories": ["experience"]
         }
     ]
